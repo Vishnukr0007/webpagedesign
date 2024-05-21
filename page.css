@@ -1,0 +1,72 @@
+
+ 
+
+body{
+    
+    background-image: url('pexels-bertellifotografia-573299.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.header{
+    width: 50%;
+    height: 30px;
+    float: left;
+}
+a{
+    color: #fff;
+    margin-left: 350px;
+    margin-top: 10px;
+    
+
+}
+.header2{
+    
+    width: 50%;
+    height: 30px;
+    float: left;
+
+}
+li{
+    color: #fff;
+    list-style: none;
+    float: left;
+    padding-top: 3px;
+    padding-left: 70px;
+}
+.center{
+    width: 600px;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+h1{
+    color: #fff;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+     Geneva, Verdana, sans-serif;
+     padding-left: 100px;
+     padding-top: 150px;
+}
+p{
+    padding-left: 140px;
+    color: #cfd4d1;
+  font-size: 20px;
+}
+u{
+    text-decoration: underline;
+    text-decoration-color: greenyellow;
+    color: #fff;
+}
+.btn-style{
+    background: #0cf22f;
+    font-weight: bolder;
+    color: #fff;
+    margin-left: 80px;
+    width: 140px;
+    height: 40px;
+    border-color:  #0cf22f;
+    border-radius: 4px;
+    font-size: 12px;
+}
